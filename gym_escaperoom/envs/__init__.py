@@ -1,0 +1,4 @@
+from gym_escaperoom.envs.blocked_two_room import SpotterLevel1
+from gym_escaperoom.envs.blocked_two_room import SpotterLevel2
+from gym_escaperoom.envs.blocked_two_room import SpotterLevel3
+from gym_escaperoom.envs.blocked_two_room import UnblockedGoal
