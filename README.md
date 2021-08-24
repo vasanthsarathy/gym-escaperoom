@@ -38,4 +38,14 @@ You can also choose the spotter environments with the `--env` option:
 `$ ./manual_control.py --env gym_escaperoom:MiniGrid-SpotterLevel2-v0`
 
 
-
+## BibTeX
+```
+@misc{gym_escaperoom,
+  author = {Sarathy, Vasanth},
+  title = {Escape Room Environments for OpenAI Gym},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/vasanthsarathy/gym-escaperoom}},
+}
+```
